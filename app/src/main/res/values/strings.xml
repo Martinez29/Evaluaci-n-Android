@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaLayout</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="registro"><u>Register now</u></string>
+    <string name="terminos"><u>Terms and Conditions</u></string>
+</resources>
